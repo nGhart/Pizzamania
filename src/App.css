@@ -5,11 +5,15 @@ nav {
 }
 .brand {
   color: white;
-  font-weight: 700; 
+  font-weight: 700;
+  border: none; 
+  background-color: transparent;
 }
 .brand:hover {
   color: rgb(45, 45, 45);
   cursor: pointer;
+  background-color: transparent;
+  border: none; 
 }
 .navLeft {
   float: right;
