@@ -1,0 +1,30 @@
+.col {
+	background-color: #f2f2ef;
+	text-align: center;
+	border: 1px solid #808588;
+	margin-top: 30px;
+}
+h1 {
+	color: #808588;
+}
+#twelve {
+	height: 300px;
+	padding: 50px;
+}
+#six {
+	height: 200px;
+	padding: 50px;
+}
+#four {
+	height: 150px;
+	padding: 40px;
+}
+#three {
+	height: 100px;
+	padding: 15px;
+}
+#eight {
+	height: 200px;
+	padding: 50px;
+	margin-top: 0;
+}
