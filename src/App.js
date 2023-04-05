@@ -1,9 +1,9 @@
-import About from './About';
 import './App.css';
-import Footer from './Footer';
-import Header from './Header';
-import PizzaTypes from './PizzaTypes';
-import Slider from './Slider';
+import About from './Components/About';
+import Footer from './Components/Footer';
+import Header from './Components/Header';
+import PizzaTypes from './Components/PizzaTypes';
+import Slider from './Components/Slider';
 
 function App() {
   return (
