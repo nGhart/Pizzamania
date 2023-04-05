@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function Header() {
   return (
@@ -8,7 +8,7 @@ function Header() {
         <ul>
           <li>Home</li>
           <li>About Pizza</li>
-           <li>Pizza Types</li>
+          <li>Pizza Types</li>
         </ul>
       </div>
     </nav>
