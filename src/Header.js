@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <nav>
-    <a className="brand" href='#'>PIZZAMANIA</a>
+    <button className="brand" href='#'>PIZZAMANIA</button>
     <div className="navLeft">
       <ul>
         <li>Home</li>
