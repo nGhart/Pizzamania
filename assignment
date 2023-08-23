@@ -1,0 +1,11 @@
+Backend Part 2
+Assignment 
+Project Brief
+Create a new project called express-backend.
+Inside this folder, initialise npm or yarn.
+Install express
+Install nodemon(as dev dependency)
+Create a simple express server that handles requests for post, get, put, delete
+The request handlers for each of these requests could return any output as the response
+Test your work using Postman to confirm that it works as expected
+Push your code to github and submit the link to the #assignments channel and also send screenshots of the output in postman.
